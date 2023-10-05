@@ -1,0 +1,4 @@
+print("my name is samsson gebreslassie!")
+a="he/him"
+print(F"my preffered pronoucne are {a} ")
+print (' my favorite movies are iron man 1 and spiderman 1 \n and i love to eat pizza.')
